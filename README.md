@@ -5,7 +5,7 @@
 > Investment Star-map Team covering hotspot scanning, deep company research, K-line technical review, portfolio strategy and event interpretation, with built-in data-reliability guardrails against hallucination.
 
 
-Part of the [WorkBuddy Experts](https://github.com/Lucewalk/WorkBuddy-Experts) collection — expert teams, agents and skills for the WorkBuddy AI assistant platform.
+Part of the [WorkBuddy Experts](https://github.com/Lucewalk/lucewalk-experts) collection — expert teams, agents and skills for the WorkBuddy AI assistant platform.
 
 
 ## What it does
