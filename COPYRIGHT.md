@@ -1,4 +1,4 @@
-Copyright (c) 2026 Xing Bu <Lucewalk@users.noreply.github.com>
+Copyright (c) 2026 Xing Bu <347014200+Lucewalk@users.noreply.github.com>
 
 投研星图团（Investment Star-map Team，touyan-expert-team）
 
