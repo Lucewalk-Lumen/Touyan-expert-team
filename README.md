@@ -5,7 +5,7 @@
 > Investment-research expert team — multi-role analysis pipeline
 
 
-Part of the [Lucewalk Experts](https://github.com/Lucewalk/lucewalk-experts) collection.
+Part of the [Lucewalk Lumen](https://github.com/Lucewalk/lucewalk-lumen) collection.
 
 
 ## What it does
