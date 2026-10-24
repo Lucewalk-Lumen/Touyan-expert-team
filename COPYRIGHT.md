@@ -1,4 +1,4 @@
-Copyright (c) 2026 Xing Bu <buxing@gdufe.edu.cn>
+Copyright (c) 2026 Xing Bu <Lucewalk@users.noreply.github.com>
 
 投研星图团（Investment Star-map Team，touyan-expert-team）
 
